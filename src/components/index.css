@@ -1,0 +1,8 @@
+.MuiTableCell-root  .MuiTableCell-head{
+    font-weight: 600!important;
+  }
+  .delbtn{
+    margin-left: 10px;
+    background: #d93749;
+    color:#fff
+  }
